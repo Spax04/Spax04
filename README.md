@@ -3,11 +3,8 @@
 <p align="left">I'm a full-stack developer based in Israel with a passion for building web applications using modern technologies.
  I enjoy taking on complex problems and finding elegant solutions that deliver real value to end users. I'm a big believer in the power of agile methodologies and collaborative teamwork, and I'm always looking for ways to improve my skills and learn from others.
 Feel free to check out my Github profile for examples of my work and to get in touch with me if you have any questions or want to collaborate on a project.
-![image]()
 
-
-<h1>Languages and skills </h1>
-
+<h1>📖 Languages and skills</h1>
 
 <p align="center">
 <img  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -19,17 +16,21 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <img  height="50" src="https://user-images.githubusercontent.com/33599251/220169673-2c9c7082-0045-40df-9d33-4f2783a4ce1a.png">
 <img  height="50" src="https://user-images.githubusercontent.com/33599251/220169763-cb155cc3-7965-4cd7-b556-321d0c49dd90.png">
 <img  height="50" src="https://user-images.githubusercontent.com/33599251/220169809-a2952298-6ca0-49fa-b3fa-44effb34267a.png">
- 
 </p>
 
- <p align="center">
- <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" />
- </p>
+<p align="center">
+<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" />
+</p>
 
+<h1>🔔 My GitHub  </h1>
 
-<h1>Languages and skills </h1>
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 
  <img align="right" src= "https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif"/></p>
+
+<h1>My contacts </h1>
+<p>You can contact me in select options</p>
+&nbsp; <a src=""><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
+
