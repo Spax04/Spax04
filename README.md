@@ -1,11 +1,12 @@
 <h1><img align="center" src= "https://user-images.githubusercontent.com/33599251/220166243-37f9f2b4-e698-49fd-9121-0d79ca817891.png" /></p></h1>
 
-
+<p align="left">I'm a full-stack developer based in Israel with a passion for building web applications using modern technologies.</p>
+<img align="right" src= "https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif"/>
 ![coding](https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif)
 
  <h1 align="center">Hello World 🌐, I'm Alexander Gotlib</h1>
 
-I'm a full-stack developer based in Israel with a passion for building web applications using modern technologies.
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/33599251/220022158-62419c18-00dd-47d6-80da-8f8ff408fcae.png"></code>
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
