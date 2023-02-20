@@ -10,6 +10,8 @@ I'm a full-stack developer based in Israel with a passion for building web appli
 <code><img height="20" src="https://user-images.githubusercontent.com/33599251/220022158-62419c18-00dd-47d6-80da-8f8ff408fcae.png"></code>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://raw.githubusercontent.com/Spax04/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Spax04/github-stats-transparent/output/generated/languages.svg)
 
 I enjoy taking on complex problems and finding elegant solutions that deliver real value to end users. I'm a big believer in the power of agile methodologies and collaborative teamwork, and I'm always looking for ways to improve my skills and learn from others.
 
