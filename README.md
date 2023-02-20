@@ -3,7 +3,7 @@
 <p align="left">I'm a full-stack developer based in Israel with a passion for building web applications using modern technologies.
  I enjoy taking on complex problems and finding elegant solutions that deliver real value to end users. I'm a big believer in the power of agile methodologies and collaborative teamwork, and I'm always looking for ways to improve my skills and learn from others.
 Feel free to check out my Github profile for examples of my work and to get in touch with me if you have any questions or want to collaborate on a project.
-
+![image]()
 
 
 <h1>Languages and skills </h1>
@@ -16,7 +16,9 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <code><img height="40" src="https://user-images.githubusercontent.com/33599251/220168369-444d9164-e320-4f1c-870d-c2315ef52327.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33599251/220168527-bb543532-ef8a-4c63-8cee-b637e89bceab.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33599251/220168604-37715750-54bd-47c4-ae11-da1470250025.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/33599251/220168604-37715750-54bd-47c4-ae11-da1470250025.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/33599251/220169673-2c9c7082-0045-40df-9d33-4f2783a4ce1a.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/33599251/220169763-cb155cc3-7965-4cd7-b556-321d0c49dd90.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/33599251/220169809-a2952298-6ca0-49fa-b3fa-44effb34267a.png"></code>
 
 
 <h1>Languages and skills </h1>
