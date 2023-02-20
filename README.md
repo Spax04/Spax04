@@ -9,7 +9,7 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <h1>Languages and skills </h1>
 
 
-<p align="left">
+<p align="center">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="40" src="https://user-images.githubusercontent.com/33599251/220022158-62419c18-00dd-47d6-80da-8f8ff408fcae.png">
 <img height="40" src="https://user-images.githubusercontent.com/33599251/220168117-618b00f7-8af0-437d-a75f-2232f00b9b2d.png">
