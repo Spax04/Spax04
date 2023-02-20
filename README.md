@@ -12,7 +12,9 @@ I'm a full-stack developer based in Israel with a passion for building web appli
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Spax04=anuraghazra&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?Spax04=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I enjoy taking on complex problems and finding elegant solutions that deliver real value to end users. I'm a big believer in the power of agile methodologies and collaborative teamwork, and I'm always looking for ways to improve my skills and learn from others.
 
 
