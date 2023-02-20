@@ -9,7 +9,10 @@ I'm a full-stack developer based in Israel with a passion for building web appli
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/33599251/220022158-62419c18-00dd-47d6-80da-8f8ff408fcae.png"></code>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img src= "https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" />
+
+![Github Stats]()
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
