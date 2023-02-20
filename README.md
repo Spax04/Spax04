@@ -24,10 +24,11 @@ Feel free to check out my Github profile for examples of my work and to get in t
 
 
 
+
 <h1>My contacts </h1>
 <p>You can contact me by the following links.</p>
 &nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
-&nbsp; <a href="https://www.instagram.com/gotlib04/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220187021-0936285c-70c0-483d-ad9a-a7b64a04b438.png
+&nbsp; <a href="https://www.instagram.com/gotlib04/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220187160-1d9e5770-71d9-48fa-9f47-5eb5ee4b1846.png
 "></a>
 &nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
 
