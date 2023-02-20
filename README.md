@@ -27,6 +27,8 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <h1>My contacts </h1>
 <p>You can contact me in select options</p>
 &nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
+&nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
+&nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
 
 <h1>🔔 My GitHub  </h1>
 
