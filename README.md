@@ -5,12 +5,9 @@
 
  Hello World 🌐, I'm Alexander Gotlib
 
-Languages and tools:
-<code>![image](https://user-images.githubusercontent.com/33599251/220021653-9b4d1eca-ea91-4870-89f9-237a9078bb23.png)
-</code>
+Hi there, I'm a full-stack developer based in Israel with a passion for building web applications using modern technologies. My primary programming languages are C# and I have experience working with frameworks such as ASP.NET Core, Angular, and ReactJS.
 
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 I enjoy taking on complex problems and finding elegant solutions that deliver real value to end users. I'm a big believer in the power of agile methodologies and collaborative teamwork, and I'm always looking for ways to improve my skills and learn from others.
