@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/33599251/220019815-8ac10f98-6d7e-4705-8f67-6ced224729bd.png)
+<h1><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" /></p></h1>
 
 
 ![coding](https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif)
