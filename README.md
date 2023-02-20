@@ -22,6 +22,12 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" />
 </p>
 
+
+
+<h1>My contacts </h1>
+<p>You can contact me in select options</p>
+&nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
+
 <h1>🔔 My GitHub  </h1>
 
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
@@ -29,8 +35,3 @@ Feel free to check out my Github profile for examples of my work and to get in t
 
 
  <img align="right" src= "https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif"/></p>
-
-<h1>My contacts </h1>
-<p>You can contact me in select options</p>
-&nbsp; <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/" target="_blank" rel="noreferrer"><img  height="50" src="https://user-images.githubusercontent.com/33599251/220185524-37fe6cf8-c378-404f-8564-dbea563d72c7.png"></a>
-
