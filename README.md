@@ -1,5 +1,5 @@
-<p align="center">![github-header-image](https://user-images.githubusercontent.com/33599251/220019815-8ac10f98-6d7e-4705-8f67-6ced224729bd.png)</p>
-
+![github-header-image](https://user-images.githubusercontent.com/33599251/220019815-8ac10f98-6d7e-4705-8f67-6ced224729bd.png)
+a
 
 ![coding](https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif)
 
