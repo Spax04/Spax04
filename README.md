@@ -23,7 +23,7 @@ Feel free to check out my Github profile for examples of my work and to get in t
 </p>
 
  <p align="center">
- <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" />
+ <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" />
  </p>
 
 
