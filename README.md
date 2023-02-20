@@ -3,7 +3,7 @@
 
 ![coding](https://user-images.githubusercontent.com/33599251/220018136-4a31af75-9b12-4794-a1ad-3363ccf92a46.gif)
 
- Hello World 🌐, I'm Alexander Gotlib
+ <h1 align="center">Hello World 🌐, I'm Alexander Gotlib</h1>
 
 I'm a full-stack developer based in Israel with a passion for building web applications using modern technologies.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
