@@ -6,7 +6,7 @@ Feel free to check out my Github profile for examples of my work and to get in t
 
 
 
- ### Languages and skills &nbsp;
+<h1>Languages and skills </h1>
 
  <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Spax04&layout=compact" /></p>
 
@@ -18,6 +18,8 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <code><img height="40" src="https://user-images.githubusercontent.com/33599251/220168604-37715750-54bd-47c4-ae11-da1470250025.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/33599251/220168604-37715750-54bd-47c4-ae11-da1470250025.png"></code>
 
+
+<h1>Languages and skills </h1>
 <p><img align="left" src= "https://github-readme-stats.vercel.app/api?username=Spax04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
