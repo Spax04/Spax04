@@ -16,6 +16,8 @@ Feel free to check out my Github profile for examples of my work and to get in t
 <img  height="50" src="https://user-images.githubusercontent.com/33599251/220169673-2c9c7082-0045-40df-9d33-4f2783a4ce1a.png">
 <img  height="50" src="https://user-images.githubusercontent.com/33599251/220169763-cb155cc3-7965-4cd7-b556-321d0c49dd90.png">
 <img  height="50" src="https://user-images.githubusercontent.com/33599251/220169809-a2952298-6ca0-49fa-b3fa-44effb34267a.png">
+ <img  height="50" src="https://skillicons.dev/icons?i=git">
+ <img  height="50" src="https://skillicons.dev/icons?i=js,html,css">
 </p>
 
 <p align="center">
