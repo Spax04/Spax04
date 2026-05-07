@@ -83,8 +83,8 @@
 </h2>
 
 <p>
-    <a href="https://leetcode.com/u/Ahtisham1214/">
-    <img src="https://leetcard.jacoblin.cool/Ahtisham1214?theme=unicorn&ext=heatmap">
+    <a href="https://leetcode.com/u/Spax/">
+    <img src="https://leetcard.jacoblin.cool/Spax?theme=unicorn&ext=heatmap">
     </a>
     <br>
     <a href="assets/50daysproof.png">
