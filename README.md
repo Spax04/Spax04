@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Spax04">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Spax!;FullStack software engineer;Living in Israel&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Alex;I'm+Full+stack+software+engineer;Based+in+Israel" />
     </a>
 </p>
 <!--- Adding Header Elements -->
@@ -35,7 +35,6 @@
     </a>
     <br>
     <a href="assets/50daysproof.png">
-    <img src="assets/50days.png" height="100"></a>
 </p>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
@@ -49,9 +48,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spax04&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spax04&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spax04&theme=omni&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spax04&theme=omni" width="100%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spax04&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
-    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/Spax04/Spax04/snake/github-snake-dark.svg" width="100%"><br>
-    <img src="https://raw.githubusercontent.com/Spax04/Spax04/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
