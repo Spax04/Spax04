@@ -3,25 +3,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Alex;I'm+Full+stack+software+engineer;Based+in+Israel" />
     </a>
 </p>
-<!--- Adding Header Elements -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/">
-        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=gotlib14@gmail.com">
-        <img src="assets/mygmail.png" height="40" alt="Gmail">
-    </a>&nbsp;&nbsp;
-</p>
 
 
 **💻Tech Stack:**<br><br>
 <p>
 <b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/csharp.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/azure.svg" height="40"/>&nbsp;&nbsp;
+    <img src="assets/csharp.svg" height="40"/>&nbsp;&nbsp;
+    <img src="assets/js.svg" height="40"/>&nbsp;&nbsp;
+    <img src="assets/react.svg" height="40"/>&nbsp;&nbsp;
+    <img src="assets/python.svg" height="40"/>&nbsp;&nbsp;
     <br><br><br>
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
