@@ -22,12 +22,7 @@
     </a>&nbsp;&nbsp;
     <a href="https://x.com/Ahtisham1214">
         <img src="assets/mytwitter.png" height="38" alt="X">
-
 </p>
-
-<img src="assets/line.gif" height="20" width="100%">
-<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/Spax04/Spax04/main/github-metrics.svg"><br>
-<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/Spax04/Spax04/main/metrics.plugin.isocalendar.fullyear.svg">
 
 
 **💻Tech Stack:**<br><br>
