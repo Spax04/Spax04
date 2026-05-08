@@ -5,72 +5,24 @@
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
-    <a href="https://linkedin.com/in/ahtishamshaikh1214">
+    <a href="https://www.linkedin.com/in/alexander-gotlib-87b262241/">
         <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/26632888">
-        <img src="assets/mystackoverflow.png" height="40" alt="Stack Overflow">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/ahtisham.shaikh.1214">
-        <img src="assets/myfacebook.png" height="40" alt="Facebook">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/ahtishamshaikh1214">
-        <img src="assets/myinstagram.png" height="40" alt="Instagram">
-    </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=gotlib14@gmail.com">
         <img src="assets/mygmail.png" height="40" alt="Gmail">
     </a>&nbsp;&nbsp;
-    <a href="https://x.com/Ahtisham1214">
-        <img src="assets/mytwitter.png" height="38" alt="X">
 </p>
 
 
 **💻Tech Stack:**<br><br>
 <p>
 <b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/c.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/csharp.png" height="40"/>&nbsp;&nbsp;
     <br><br><br>
-<b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/react.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/flutter.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/numpy.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/keras.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/tensorflow.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pandas.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pytorch.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/scikit-learn.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/matplotlib.png" height="40"/><br><br><br>
-    <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/githubicon.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/CLion.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/antigravity.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/word.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/excel.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/powerpoint.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/jupyter.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/colab.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/Postman.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/512x512.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/Ubuntu.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/linux.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-    <img src="assets/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40">
-</p><br><br>
-
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
         <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
