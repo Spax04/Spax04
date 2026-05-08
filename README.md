@@ -7,26 +7,19 @@
 
 **💻Tech Stack:**<br><br>
 <p>
-<b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/azure.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/csharp.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/js.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/react.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/python.svg" height="40"/>&nbsp;&nbsp;
+    <img src="assets/azure.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/csharp.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/js.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/typescript.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/react.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/nodejs.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/html.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/css.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/python.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/docker.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/redis.svg" height="60"/>&nbsp;&nbsp;
+    <img src="assets/mongodb.svg" height="60"/>&nbsp;&nbsp;
     <br><br><br>
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
-</h2>
-
-<p>
-    <a href="https://leetcode.com/u/Spax/">
-    <img src="https://leetcard.jacoblin.cool/Spax?theme=unicorn&ext=heatmap">
-    </a>
-    <br>
-    <a href="assets/50daysproof.png">
-</p>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://github.com/Spax04" style="display: inline-flex; align-items: center; text-decoration: none;">
